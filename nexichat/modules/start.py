@@ -29,20 +29,20 @@ from nexichat.modules.helpers import (
 
 # Random Start Images
 IMG = [
-    "https://graph.org/file/210751796ff48991b86a3.jpg",
-    "https://graph.org/file/7b4924be4179f70abcf33.jpg",
-    "https://graph.org/file/f6d8e64246bddc26b4f66.jpg",
-    "https://graph.org/file/63d3ec1ca2c965d6ef210.jpg",
-    "https://graph.org/file/9f12dc2a668d40875deb5.jpg",
-    "https://graph.org/file/0f89cd8d55fd9bb5130e1.jpg",
-    "https://graph.org/file/e5eb7673737ada9679b47.jpg",
-    "https://graph.org/file/2e4dfe1fa5185c7ff1bfd.jpg",
-    "https://graph.org/file/36af423228372b8899f20.jpg",
-    "https://graph.org/file/c698fa9b221772c2a4f3a.jpg",
-    "https://graph.org/file/61b08f41855afd9bed0ab.jpg",
-    "https://graph.org/file/744b1a83aac76cb3779eb.jpg",
-    "https://graph.org/file/814cd9a25dd78480d0ce1.jpg",
-    "https://graph.org/file/e8b472bcfa6680f6c6a5d.jpg",
+    "https://graph.org/file/207b09c0651067ad3252b.jpg",
+    "https://graph.org/file/3b9e361a201ecb663d18b.jpg",
+    "https://graph.org/file/5a3aba4997e713a94219f.jpg",
+    "https://graph.org/file/8482d5016e0aeb304719a.jpg",
+    "https://graph.org/file/81ca30f2b28868b395455.jpg",
+    "https://graph.org/file/bd1c9ef3b4b595735fdfc.jpg",
+    "https://graph.org/file/b6d0b6c34d6153b20395f.jpg",
+    "https://graph.org/file/6f0ea4516ae065c2af53d.jpg",
+    "https://graph.org/file/6a3903664bd0812f8d66c.jpg",
+    "https://graph.org/file/9ef5693d35cc4db0444aa.jpg",
+    "https://graph.org/file/e49b855fc1da045117198.jpg",
+    "https://graph.org/file/c21d04cb26a9aa37eb3f7.jpg",
+    "https://graph.org/file/512ce133a0775f869c025.jpg",
+    "https://graph.org/file/54d05af6abe9c6846ba8c.jpg",
 ]
 
 
